@@ -33,7 +33,7 @@ var pool = mysql.createPool({
     host     : 'localhost',
     port     :  3306,
     user     : 'root',
-    password : 'zhou,./0810',
+    password : 'arrival',
     database : 'arrival',
     connectionLimit:100 //最大连接数
 })
